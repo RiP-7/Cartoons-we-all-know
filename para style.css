@@ -1,0 +1,56 @@
+body, html{
+    height: 100%;
+    margin:0;
+    font-size: 26px;
+    font-family:"Poppins", sans-serif;
+    font-weight: 40;
+    line-height: 1.8em;
+    color: blueviolet;
+}
+
+.pimg1,.pimg2, .pimg3 {
+
+position: relative;
+background-position:center;
+background-size: cover;
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+}
+
+
+
+.pimg1{
+    background-image: url('../Images/spongebob all.jpg');
+    min-height: 100%;
+}
+
+
+
+.pimg2{
+    background-image: url('../Images/scooby poster.jpg');
+    min-height: 400px;
+}
+
+
+.pimg3{
+    background-image: url('../Images/scooby poster.jpg');
+    min-height: 100%;
+}
+
+.S1 {
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+}
+
+.ptext{
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.border{
+   background-color: aquamarine; 
+   color: black;
+   /*padding: 20px;*/
