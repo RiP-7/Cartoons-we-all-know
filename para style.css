@@ -51,6 +51,8 @@ background-attachment: fixed;
 }
 
 .border{
-   background-color: aquamarine; 
+   background-color: rgba(52, 54, 54, 0.29); 
    color: black;
-   /*padding: 20px;*/
+   border-radius: 20px;
+   padding: 12px;
+}
