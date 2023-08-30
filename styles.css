@@ -89,15 +89,20 @@ background-attachment: fixed;
     top: 50%;
     width: 100%;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.679);
+    font-weight: 10px;
+    font-size: 56px;
+    color: #ffffff;
 }
 
-.border, {
+//.border, {
    background-color: rgba(52, 54, 54, 0.29); 
-   color: black;
+   color: black; 
    border-radius: 20px;
-   padding: 12px;
+   padding: 22px;
    font-size: 32px;
    font-family:"Poppins", sans-serif;
    font-weight: 40;
    line-height: 1.8em;
-}
+}//
+
